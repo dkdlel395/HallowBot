@@ -17,4 +17,14 @@
 -  비대면 안내서비스를 통해 팬데믹 상황에서 감염을 예방할 수 있으며 의료진들의 업무를 분담하고 병원 이용의 어려움을 겪는 이용자에게 도움을 줄 수 있다.
 
 ## 6. 작품사진
-- ![image](https://github.com/dkdlel395/HallowBot/assets/74848389/5017835a-7bf5-4361-aa75-2350c977e870)
+<img src='https://github.com/dkdlel395/HallowBot/assets/74848389/5017835a-7bf5-4361-aa75-2350c977e870'></img>
+
+## 7. 시스템 구성
+##### 하드웨어 구성도
+<img src='https://github.com/dkdlel395/HallowBot/assets/74848389/6e19cfcf-9fa8-4bdf-8900-dd3152ef1ea0'></img>
+
+##### 서비스 구성도 
+<img src='https://github.com/dkdlel395/HallowBot/assets/74848389/ba5b59bd-ad85-42b1-ac42-05dd23bf8663'>
+
+##### 서비스 알고리즘
+<img src='https://github.com/dkdlel395/HallowBot/assets/74848389/d70d5baa-e641-4d37-9007-30d19ce8a620'></img>
