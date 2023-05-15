@@ -17,4 +17,4 @@
 -  비대면 안내서비스를 통해 팬데믹 상황에서 감염을 예방할 수 있으며 의료진들의 업무를 분담하고 병원 이용의 어려움을 겪는 이용자에게 도움을 줄 수 있다.
 
 ## 6. 작품사진
-- ![image](https://github.com/dkdlel395/HallowBot/assets/74848389/c90e67ac-9f38-46fe-b97a-f667d60837a2)
+- ![image](https://github.com/dkdlel395/HallowBot/assets/74848389/5017835a-7bf5-4361-aa75-2350c977e870)
